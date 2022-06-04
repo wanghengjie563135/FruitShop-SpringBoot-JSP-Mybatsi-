@@ -19,6 +19,7 @@
 1.  该项目只开源了源代码，相关的word文档+mysql数据库请在csdn下载：https://download.csdn.net/download/weixin_44385486/85546809
 2.  管理员登录地址：http://localhost:8081/test1_war_exploded/login/login
 3.  商城首页：http://localhost:8081/test1_war_exploded/login/uIndex
+![输入图片说明](image.png)
 # 一、前言
 
 今天是2022年6月3日，端午节，接到一位同学的投稿，说需要做一个课程设计，用SpringBoot做一个水果商城系统，我在网上找了一下，只有我去年12月份实现了一个简单的SpringBoot的水果商城，但是同学反馈，这个太简单了，他的课程设计实现水果商城需要5张表以上的水果商城，所以我在端午期间实现了这个SpringBoot+jsp的水果商城系统
